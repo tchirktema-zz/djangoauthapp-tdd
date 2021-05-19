@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 django = "*"
 pylint = "*"
+validate-email = "*"
+mysqlclient = "*"
+six = "*"
 
 [dev-packages]
 autopep8 = "*"
